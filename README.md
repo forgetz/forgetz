@@ -9,6 +9,6 @@ forgetz/forgetz is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=forgetz&count_private=true&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=forgetz&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=forgetz&theme=tokyonight&layout=compact)
