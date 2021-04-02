@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding, cat
 - 🌱 I’m currently learning ... solidity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... m.me/forgetz
 
 <!---
 forgetz/forgetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
