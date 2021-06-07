@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @forgetz
+- 👋 Hi, I’m Nat
 - 👀 I’m interested in ... coding, cat
 - 🌱 I’m currently learning ... solidity
 - 💞️ I’m looking to collaborate on ...
